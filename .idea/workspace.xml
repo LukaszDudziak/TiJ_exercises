@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73b511d9-da84-4347-ae2d-86631c100e34" name="Default Changelist" comment="" />
+    <list default="true" id="73b511d9-da84-4347-ae2d-86631c100e34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/r05/Buzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/r05/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/r05/PointFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/r05/PointFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/r05/PointOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/r05/PointSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ_exercises/r04/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ_exercises/r04/NewLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ_exercises/r04/PrintTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ_exercises/r04/PrintTwice.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,28 +24,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/r02/Date.java">
+        <entry file="file://$PROJECT_DIR$/src/r03/First.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/r04/PointThree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/r03/GuessStarter.java">
+        <entry file="file://$PROJECT_DIR$/src/r05/Buzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="390">
+              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+              <folding>
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/r05/PointSeven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,71 +58,71 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/r04/Methods.java">
+        <entry file="file://$PROJECT_DIR$/src/r05/PointOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/r04/NewLine.java">
+        <entry file="file://$PROJECT_DIR$/src/r05/Exercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/r04/PrintTime.java">
+        <entry file="file://$PROJECT_DIR$/src/r05/PointFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/r04/PrintTwice.java">
+        <entry file="file://$PROJECT_DIR$/src/r05/PointFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/r04/Exercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/r04/PointTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="180">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding>
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="62" selection-start-column="62" selection-end-column="62" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/r03/Convert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/r03/GuessStarter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/r03/TimeConvert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -137,6 +153,12 @@
         <option value="$PROJECT_DIR$/src/r04/Exercise.java" />
         <option value="$PROJECT_DIR$/src/r04/PointTwo.java" />
         <option value="$PROJECT_DIR$/src/r04/PointThree.java" />
+        <option value="$PROJECT_DIR$/src/r05/PointOne.java" />
+        <option value="$PROJECT_DIR$/src/r05/Exercise.java" />
+        <option value="$PROJECT_DIR$/src/r05/PointFour.java" />
+        <option value="$PROJECT_DIR$/src/r05/PointFive.java" />
+        <option value="$PROJECT_DIR$/src/r05/Buzz.java" />
+        <option value="$PROJECT_DIR$/src/r05/PointSeven.java" />
       </list>
     </option>
   </component>
@@ -182,6 +204,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="r04" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TiJ_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TiJ_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="r05" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -193,7 +221,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547831545444" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547836980521" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -214,13 +242,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PointThree">
-    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="r03.Convert" />
+  <component name="RunManager" selected="Application.PointSeven">
+    <configuration name="Buzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r05.Buzz" />
       <module name="TiJ_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="r03.*" />
+          <option name="PATTERN" value="r05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="r03.GuessStarter" />
+    <configuration name="PointFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r05.PointFive" />
       <module name="TiJ_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="r03.*" />
+          <option name="PATTERN" value="r05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="r04.PointThree" />
+    <configuration name="PointFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r05.PointFour" />
       <module name="TiJ_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="r04.*" />
+          <option name="PATTERN" value="r05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="r04.PointTwo" />
+    <configuration name="PointOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r05.PointOne" />
       <module name="TiJ_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="r04.*" />
+          <option name="PATTERN" value="r05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="r03.TimeConvert" />
+    <configuration name="PointSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r05.PointSeven" />
       <module name="TiJ_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="r03.*" />
+          <option name="PATTERN" value="r05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PointThree" />
-        <item itemvalue="Application.PointTwo" />
-        <item itemvalue="Application.GuessStarter" />
-        <item itemvalue="Application.TimeConvert" />
-        <item itemvalue="Application.Convert" />
+        <item itemvalue="Application.PointSeven" />
+        <item itemvalue="Application.Buzz" />
+        <item itemvalue="Application.PointFive" />
+        <item itemvalue="Application.PointFour" />
+        <item itemvalue="Application.PointOne" />
       </list>
     </recent_temporary>
   </component>
@@ -302,15 +330,16 @@
       <updated>1544782594490</updated>
       <workItem from="1544782598129" duration="3507000" />
       <workItem from="1547135659906" duration="1676000" />
-      <workItem from="1547829606708" duration="1636000" />
+      <workItem from="1547829606708" duration="5350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6819000" />
+    <option name="totallyTimeSpent" value="10533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -322,12 +351,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3306189" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3306189" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
@@ -355,27 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/r03/First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/r03/Convert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/r03/TimeConvert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -386,13 +394,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/r03/GuessStarter.java">
+    <entry file="file://$PROJECT_DIR$/src/r04/Exercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r04/PointTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r02/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r04/PointThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -424,35 +454,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/r04/Exercise.java">
+    <entry file="file://$PROJECT_DIR$/src/r03/TimeConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r03/Convert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r03/First.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/r04/PointTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/r05/Conditional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="-435">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r05/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r05/Logarithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r05/PointOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r05/Exercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r05/PointFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r05/PointFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/r02/Date.java">
+    <entry file="file://$PROJECT_DIR$/src/r05/Buzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="390">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/r04/PointThree.java">
+    <entry file="file://$PROJECT_DIR$/src/r03/GuessStarter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="135">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r05/PointSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
