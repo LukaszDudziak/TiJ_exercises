@@ -1,6 +1,6 @@
 package r07;
 
-public class PoinyTwo {
+public class PointTwo {
 
     public static double squareRoot( double x ){
 
